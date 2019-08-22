@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mio/PycharmProjects/tf/tensorflow-101-master/notebook-examples/chapter-3/my-model-0"
+all_model_checkpoint_paths: "/home/mio/PycharmProjects/tf/tensorflow-101-master/notebook-examples/chapter-3/my-model-0"
